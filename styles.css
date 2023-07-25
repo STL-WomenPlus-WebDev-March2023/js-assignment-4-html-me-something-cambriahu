@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+
+body {
+    width: 90%;
+    margin: 8px;
+    background-color: rgb(238, 5, 5);
+    font-size: 110%
+}
+
+footer {
+    font-size: 80%;
+    text-align: center;
+}
+
+
+
+ 
+h2{
+    font-size: 155%;
+}
+
+ 
